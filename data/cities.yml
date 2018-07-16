@@ -1,0 +1,30 @@
+berlin:
+  name: Le Wagon Berlin
+  driver: PhilippvH1
+  description: Ich bin ein Berliner
+  address: Rudi-Dutschke-Straße 26, 10969 Berlin
+paris:
+  name: Le Wagon Paris
+  driver: Papillard
+  description: La vie en Rose
+  address: 16 Villa Gaudelet
+shanghai:
+  name: Le Wagon Shanghai
+  driver: elephantonaleaf
+  description: NY of the East
+  address: WeWork Nanjing Xi Lu
+chengdu:
+  name: Le Wagon Chengdu
+  driver: allenjsx
+  description: Code like Pandas!
+  address: Rudi-Dutschke-Straße 26, 10969 Berlin
+rio:
+  name: Le Wagon rio
+  driver: matleroux
+  description: Carnaval do Brazil!
+  address: 26 Ladeira da Glória, Rio de Janeiro
+shenzhen:
+  name: Le Wagon Shenzhen
+  driver: picklerick
+  description: The silicon valley of China
+  address: nanshan
